@@ -80,6 +80,15 @@ button:hover {
   color: white;
 }
 
+.sucess {
+  color:darkgreen;
+  display: flex;
+  justify-content: center;
+  font-family: 'nexa';
+  font-size: 20px;
+  margin: 20px 0px 20px 0px;
+}
+
 
 
 /* name, title, statement and buttons ends here */
@@ -187,6 +196,15 @@ button:hover {
     background-color: #4F3325;
     color: black;
   }
+
+  .sucess {
+    color:darkgreen;
+    display: flex;
+    justify-content: center;
+    font-family: 'nexa';
+    font-size: 15px;
+    margin: 15px 0px 15px 0px;
+  }
   
 }
 
@@ -234,6 +252,15 @@ button:hover {
   button:hover {
     background-color: #4F3325;
     color: white;
+  }
+
+  .sucess {
+    color:darkgreen;
+    display: flex;
+    justify-content: center;
+    font-family: 'nexa';
+    font-size: 12px;
+    margin: 10px 0px 10px 0px;
   }
   
 }
@@ -330,6 +357,15 @@ button:hover {
   button:hover {
     background-color: #4F3325;
     color: white;
+  }
+
+  .sucess {
+    color:darkgreen;
+    display: flex;
+    justify-content: center;
+    font-family: 'nexa';
+    font-size: 8px;
+    margin: 8px 0px 8px 0px;
   }
   
 }
