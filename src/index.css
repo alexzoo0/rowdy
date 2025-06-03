@@ -56,7 +56,7 @@ h1 {
 
 input {
   width: 700px;
-  height: 88px;
+  height: 90px;
   border-radius: 8px 0px 0px 8px;
   margin: 1150px 0px 0px 0px;
   background-color: #FCF3E3;
@@ -126,7 +126,7 @@ button:hover {
 
   input {
     width: 500px;
-    height: 88px;
+    height: 90px;
     border-radius: 8px 0px 0px 8px;
     margin: 800px 0px 0px 50px;
     background-color: #FCF3E3;
@@ -173,7 +173,7 @@ button:hover {
 
   input {
     width: 400px;
-    height: 68px;
+    height: 70px;
     border-radius: 8px 0px 0px 8px;
     margin: 550px 0px 0px 50px;
     background-color: #FCF3E3;
@@ -230,7 +230,7 @@ button:hover {
 
   input {
     width: 230px;
-    height: 48px;
+    height: 50px;
     border-radius: 5px 0px 0px 5px;
     margin: 400px 0px 0px 100px;
     background-color: #FCF3E3;
@@ -287,7 +287,7 @@ button:hover {
 
   input {
     width: 200px;
-    height: 38px;
+    height: 40px;
     border-radius: 5px 0px 0px 5px;
     margin: 280px 0px 0px 50px;
     background-color: #FCF3E3;
@@ -345,7 +345,7 @@ button:hover {
 
   button {
     width: 60px;
-    height: 24px;
+    height: 22px;
     border-radius: 0px 5px 5px 0px;
     margin: 165px 0px 0px 0px;
     font-size: 8px;
